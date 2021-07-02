@@ -7,6 +7,7 @@ class Allergies:
     def __init__(self, score):
         pass
     #thisgjnho
+    #gntjbtkm
 
     def allergic_to(self, item):
         pass
