@@ -5,7 +5,8 @@ class Allergies:
         }
 
     def __init__(self, score):
-        self.score = score
+        pass
+    #thisgjnho
 
     def allergic_to(self, item):
         pass
