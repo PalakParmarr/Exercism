@@ -1,7 +1,6 @@
 
 def distance(strand_a, strand_b):
     d=0
-    
     if len(strand_a)!= len(strand_b):
         raise ValueError("not same")
     elif len(strand_a)==0:
